@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "https://scholar.google.com.hk/citations?user=4hTihtwAAAAJ&hl=zh-CN" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "https://github.com/lxFang2022" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -23,9 +23,9 @@ My research interests lie in computer vision and time-series analysis, with a pa
 
 
 # 🔥 News
-- **2025.06**: &nbsp;🎉🎉 One paper is accepted by Neural Networks!
-- **2025.04**: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis!
-- **2025.02**: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
+- **2025.06**: &nbsp;🎉🎉 One paper is accepted by **Neural Networks**!
+- **2025.04**: &nbsp;🎉🎉 One paper is accepted by **Medical Image Analysis**!
+- **2025.02**: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**!
   
 # 📝 Publications 
 
