@@ -65,7 +65,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
   <div class='paper-box-image'>
     <div>
       <div class="badge">NN 2025</div>
-      <img src="../images/nn.jpg" alt="Neural Networks 2025" width="100%">
+      <img src="../images/nn2025.jpg" alt="Neural Networks 2025" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
