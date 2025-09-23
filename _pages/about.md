@@ -58,7 +58,7 @@ Neural Networks (**NN' 2025**), 2025.
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2025</div>
-      <img src="{{ '../images/cvpr2025.jpg' | relative_url }}" alt="CVPR 2025" width="100%">
+      <img src="../images/cvpr2025.jpg" alt="CVPR 2025" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -74,7 +74,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
   <div class='paper-box-image'>
     <div>
       <div class="badge">MIA 2025</div>
-      <img src="{{ '../images/mia2025.jpg' | relative_url }}" alt="Medical Image Analysis 2025" width="100%">
+      <img src="../images/mia2025.jpg" alt="Medical Image Analysis 2025" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -90,7 +90,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
   <div class='paper-box-image'>
     <div>
       <div class="badge">NN 2025</div>
-      <img src="{{ '../images/nn.jpg' | relative_url }}" alt="Neural Networks 2025" width="100%">
+      <img src="../images/nn.jpg" alt="Neural Networks 2025" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
