@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the School of Software, Shandong University, supervised by Prof. [Xuemei Li](https://faculty.sdu.edu.cn/lixuemei/zh_CN/index.htm) and Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). I am a member of the IC\&IV Group, led by Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). 
+I am currently a Ph.D. candidate at the School of Software, Shandong University, supervised by Prof. [Xuemei Li](https://faculty.sdu.edu.cn/lixuemei/zh_CN/index.htm) and Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). I am a member of the ICIV Group, led by Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). 
 
 My research interests lie in computer vision and time-series analysis, with a particular focus on medical image segmentation, training stability of deep models, and data trend modeling.
 
@@ -40,7 +40,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
 
 [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Minding_Fuzzy_Regions_A_Data-driven_Alternating_Learning_Paradigm_for_Stable_CVPR_2025_paper.pdf)  
 **Lexin Fang**, Yunyang Xu, Xiang Ma, Xuemei Li*, Caiming Zhang.  
-In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.
+In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2025.
 
   </div>
 </div>
@@ -56,7 +56,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
 [Driven by Textual Knowledge: A Text-View Enhanced Knowledge Transfer Network for Lung Infection Region Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001720) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
 **Lexin Fang**, Xuemei Li*, Yunyang Xu, Fan Zhang, Caiming Zhang.  
-*Medical Image Analysis*, 2025.
+*Medical Image Analysis (**MIA**)*, 2025.
 
   </div>
 </div>
@@ -72,7 +72,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
 [TD-HCN: A Trend-Driven Hypergraph Convolutional Network for Stock Return Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006094)  
 **Lexin Fang**, Tianlong Zhao, Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.  
-*Neural Networks*, 2025.
+*Neural Networks (**NN**)*, 2025.
 
   </div>
 </div>
