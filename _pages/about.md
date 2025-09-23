@@ -76,7 +76,6 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
     </div>
   </div>
-
   
 # 🎖 Honors and Awards
 - **2018.11**: &nbsp;  **ACM-ICPC International Collegiate Programming Contest Asia Regional Contest, Silver Medal**. 
