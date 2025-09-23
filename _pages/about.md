@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the School of Software, Shandong University, supervised by Prof. [Xuemei Li](https://faculty.sdu.edu.cn/lixuemei/zh_CN/index.htm) and Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). I am a member of the ICIV Group, led by Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). 
+I am currently a Ph.D. candidate at the School of Software, Shandong University, supervised by Prof. [Xuemei Li](https://faculty.sdu.edu.cn/lixuemei/zh_CN/index.htm) and Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). I am a member of the IC&amp;IV Lab, led by Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm). 
 
 My research interests lie in computer vision and time-series analysis, with a particular focus on medical image segmentation, training stability of deep models, and data trend modeling.
 
