@@ -87,7 +87,5 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 # ✨ Academic Service
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
 
-# 🌐 Contact
 
-- **Email**: &nbsp; fanglexin@mail.sdu.edu.cn 
 
