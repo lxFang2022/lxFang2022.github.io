@@ -29,7 +29,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Minding Fuzzy Regions: A Data-driven AlternatingLearning Paradigm for Stable Lesion Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Minding_Fuzzy_Regions_A_Data-driven_Alternating_Learning_Paradigm_for_Stable_CVPR_2025_paper.pdf)
@@ -38,7 +38,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
 Proceedings of the IEEE/CVF Conference on Computer Visionand Pattern Recognition (**CVPR' 2025**), 2025.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2025</div><img src='images/mia2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2025</div><img src='images/mia2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Driven by textual knowledge: A Text-ViewEnhanced Knowledge Transfer Network for lung infection region segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001720) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -47,7 +47,7 @@ Proceedings of the IEEE/CVF Conference on Computer Visionand Pattern Recognition
 Medical Image Analysis (**MIA' 2025**), 2025.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/nn2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/nn2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [TD-HCN: A trend-driven hypergraphconvolutional network for stock return prediction](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006094)
