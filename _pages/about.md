@@ -73,7 +73,6 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 [TD-HCN: A Trend-Driven Hypergraph Convolutional Network for Stock Return Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006094)  
 **Lexin Fang**, Tianlong Zhao, Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.  
 *Neural Networks (**NN**)*, 2025.
-
     </div>
   </div>
   
@@ -90,7 +89,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
 # 🌐 Contact
 
-Email: fanglexin@mail.sdu.edu.cn 
+- **Email**: &nbsp; fanglexin@mail.sdu.edu.cn 
 
 <p>
   <a href="https://mapmyvisitors.com/web/1bzjx" title="Visit tracker">
