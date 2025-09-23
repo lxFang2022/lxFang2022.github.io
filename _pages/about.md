@@ -74,6 +74,10 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 **Lexin Fang**, Tianlong Zhao, Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.  
 *Neural Networks (**NN**)*, 2025.
 
+    </div>
+  </div>
+
+  
 # 🎖 Honors and Awards
 - **2018.11**: &nbsp;  **ACM-ICPC International Collegiate Programming Contest Asia Regional Contest, Silver Medal**. 
 - **2018.12**: &nbsp;  **President's Scholarship**, Shandong University of Finance and Economics.
@@ -81,8 +85,6 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 - **2020.12**: &nbsp;  **Provincial Government Scholarship**, Shandong University of Finance and Economics.
 - **2021.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
 
-    </div>
-  </div>
 
 # ✨ Academic Service
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
