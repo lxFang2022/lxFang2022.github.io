@@ -91,8 +91,14 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 # 🌐 Contact
 
 - **Email**: &nbsp; fanglexin@mail.sdu.edu.cn
-<p>
+
+<p style="text-align:center;">
   <a href="https://mapmyvisitors.com/web/1bzjx" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=ukjh0Z-uzU34T0OaMSYlqHzSEU-IlWN-FW0wGRYXNn8&cl=ffffff" alt="Visitor Map">
+    <img
+      src="https://mapmyvisitors.com/map.png?d=ukjh0Z-uzU34T0OaMSYlqHzSEU-IlWN-FW0wGRYXNn8&cl=ffffff"
+      alt="Visitor Map"
+      style="max-width:100%; height:auto;"
+    >
   </a>
 </p>
+
