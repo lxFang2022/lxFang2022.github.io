@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Lexin Fang"
+excerpt: "Ph.D. candidate at Shandong University | Computer Vision & Time-Series Analysis"
 author_profile: true
 redirect_from: 
   - /about/
@@ -82,6 +82,9 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 - **2019.12**: &nbsp;  **National Scholarship**, Shandong University of Finance and Economics.
 - **2020.12**: &nbsp;  **Provincial Government Scholarship**, Shandong University of Finance and Economics.
 - **2021.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
+
+  </div>
+</div>
 
 # ✨ Academic Service
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
