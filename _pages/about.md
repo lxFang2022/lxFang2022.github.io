@@ -83,7 +83,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 - **2020.12**: &nbsp;  **Provincial Government Scholarship**, Shandong University of Finance and Economics.
 - **2021.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
 
-# :dizzy: Academic Service
+# ✨ Academic Service
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
 
 
