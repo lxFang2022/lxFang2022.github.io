@@ -54,7 +54,53 @@ Medical Image Analysis (**MIA' 2025**), 2025.
 
 **Lexin Fang**, Tianlong Zhao,  Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.
 Neural Networks (**NN' 2025**), 2025.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2025</div>
+      <img src="{{ '../images/cvpr2025.jpg' | relative_url }}" alt="CVPR 2025" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
+[Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Minding_Fuzzy_Regions_A_Data-driven_Alternating_Learning_Paradigm_for_Stable_CVPR_2025_paper.pdf)  
+**Lexin Fang**, Yunyang Xu, Xiang Ma, Xuemei Li*, Caiming Zhang.  
+In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2025.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MIA 2025</div>
+      <img src="{{ '../images/mia2025.jpg' | relative_url }}" alt="Medical Image Analysis 2025" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Driven by Textual Knowledge: A Text-View Enhanced Knowledge Transfer Network for Lung Infection Region Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001720) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+**Lexin Fang**, Xuemei Li*, Yunyang Xu, Fan Zhang, Caiming Zhang.  
+*Medical Image Analysis*, 2025.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NN 2025</div>
+      <img src="{{ '../images/nn.jpg' | relative_url }}" alt="Neural Networks 2025" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[TD-HCN: A Trend-Driven Hypergraph Convolutional Network for Stock Return Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006094)  
+**Lexin Fang**, Tianlong Zhao, Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.  
+*Neural Networks*, 2025.
+
+  </div>
+</div>
 # 🎖 Honors and Awards
 - **2018.11**: &nbsp;  **ACM-ICPC International Collegiate Programming Contest Asia Regional Contest, Silver Medal**. 
 - **2018.12**: &nbsp;  **President's Scholarship**, Shandong University of Finance and Economics.
