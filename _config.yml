@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lexin Fang"
+title                    : "Lexin Fang (房乐鑫)"
 description              : "Computer Vision and Time-Series Analysis "
 repository               : "lxFang2022/lxFang2022.github.io"
 google_scholar_stats_use_cdn : true
