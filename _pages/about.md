@@ -87,7 +87,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
 # ✨ Academic Service
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
-- IEEE Transactions on Neural Networks and Learning Systems, Reviewer.
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer.
 
 # 🌐 Contact
 
