@@ -55,7 +55,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
   </div>
   <div class='paper-box-text' markdown="1">
 
-Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation
+[Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://lxfang2022.github.io/)  
 **Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
 In *IEEE Transactions on Medical Imaging (**TMI**)*, 2026.
 
