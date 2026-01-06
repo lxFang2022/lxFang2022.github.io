@@ -29,6 +29,21 @@ My research interests lie in computer vision and time-series analysis, with a pa
 - **2025.02**: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**!
   
 # 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TMI 2026</div>
+      <img src="../images/TMI 2026.jpg" alt="TMI 2026" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://lxfang2022.github.io/)  
+**Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
+_IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -49,22 +64,6 @@ In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TMI 2026</div>
-      <img src="../images/TMI 2026.jpg" alt="TMI 2026" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://lxfang2022.github.io/)  
-**Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
-_IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">MIA 2025</div>
       <img src="../images/mia2025.jpg" alt="Medical Image Analysis 2025" width="100%">
     </div>
@@ -73,7 +72,7 @@ _IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
 
 [Driven by Textual Knowledge: A Text-View Enhanced Knowledge Transfer Network for Lung Infection Region Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001720) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
 **Lexin Fang**, Xuemei Li*, Yunyang Xu, Fan Zhang, Caiming Zhang.  
-_Medical Image Analysis (**MIA**)_, 2025.
+_Medical Image Analysis (**MedIA**)_, 2025.
 
   </div>
 </div>
