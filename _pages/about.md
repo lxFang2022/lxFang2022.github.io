@@ -100,8 +100,9 @@ _Neural Networks (**NN**)_, 2025.
 - **2019.12**: &nbsp;  **National Scholarship**, Shandong University of Finance and Economics.
 - **2020.12**: &nbsp;  **Provincial Government Scholarship**, Shandong University of Finance and Economics.
 - **2021.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
-
-
+- **2025.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
+- **2025.09**: &nbsp;  **Weichai Power Scholarship**, Shandong University.
+- 
 # ✨ Academic Service
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer.
