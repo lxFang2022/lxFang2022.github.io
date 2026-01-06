@@ -41,7 +41,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
 
 [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Minding_Fuzzy_Regions_A_Data-driven_Alternating_Learning_Paradigm_for_Stable_CVPR_2025_paper.pdf)  
 **Lexin Fang**, Yunyang Xu, Xiang Ma, Xuemei Li*, Caiming Zhang.  
-In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2025.
+In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2025.
 
   </div>
 </div>
@@ -57,7 +57,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
 [Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://lxfang2022.github.io/)  
 **Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
-In *IEEE Transactions on Medical Imaging (**TMI**)*, 2026.
+_IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
 
   </div>
 </div>
@@ -73,7 +73,7 @@ In *IEEE Transactions on Medical Imaging (**TMI**)*, 2026.
 
 [Driven by Textual Knowledge: A Text-View Enhanced Knowledge Transfer Network for Lung Infection Region Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001720) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
 **Lexin Fang**, Xuemei Li*, Yunyang Xu, Fan Zhang, Caiming Zhang.  
-*Medical Image Analysis (**MIA**)*, 2025.
+_Medical Image Analysis (**MIA**)_, 2025.
 
   </div>
 </div>
@@ -89,7 +89,7 @@ In *IEEE Transactions on Medical Imaging (**TMI**)*, 2026.
 
 [TD-HCN: A Trend-Driven Hypergraph Convolutional Network for Stock Return Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006094)  
 **Lexin Fang**, Tianlong Zhao, Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.  
-*Neural Networks (**NN**)*, 2025.
+_Neural Networks (**NN**)_, 2025.
 
   </div>
 </div>
