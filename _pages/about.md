@@ -23,6 +23,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
 
 
 # 🔥 News
+- **2025.12**: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions on Medical Imaging**!
 - **2025.06**: &nbsp;🎉🎉 One paper is accepted by **Neural Networks**!
 - **2025.04**: &nbsp;🎉🎉 One paper is accepted by **Medical Image Analysis**!
 - **2025.02**: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**!
@@ -41,6 +42,22 @@ My research interests lie in computer vision and time-series analysis, with a pa
 [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Minding_Fuzzy_Regions_A_Data-driven_Alternating_Learning_Paradigm_for_Stable_CVPR_2025_paper.pdf)  
 **Lexin Fang**, Yunyang Xu, Xiang Ma, Xuemei Li*, Caiming Zhang.  
 In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2025.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TMI 2026</div>
+      <img src="../images/tmi 2026.jpg" alt="TMI 2026" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation
+**Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
+In *IEEE Transactions on Medical Imaging (**TMI**)*, 2026.
 
   </div>
 </div>
