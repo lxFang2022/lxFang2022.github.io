@@ -50,7 +50,7 @@ In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
   <div class='paper-box-image'>
     <div>
       <div class="badge">TMI 2026</div>
-      <img src="../images/tmi 2026.jpg" alt="TMI 2026" width="100%">
+      <img src="../images/TMI 2026.jpg" alt="TMI 2026" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
