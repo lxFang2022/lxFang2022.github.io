@@ -33,8 +33,8 @@ My research interests lie in computer vision and time-series analysis, with a pa
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TMI 2026</div>
-      <img src="../images/TMI 2026.jpg" alt="TMI 2026" width="100%">
+      <div class="badge">SCIS 2026</div>
+      <img src="../images/chinasci.jpg" alt="TMI 2026" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
