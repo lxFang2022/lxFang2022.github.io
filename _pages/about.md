@@ -23,6 +23,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
 
 
 # 🔥 News
+- **2026.03**: &nbsp;🎉🎉 One paper is accepted by **Science China Information Sciences**!
 - **2025.12**: &nbsp;🎉🎉 One paper is accepted by **IEEE Transactions on Medical Imaging**!
 - **2025.06**: &nbsp;🎉🎉 One paper is accepted by **Neural Networks**!
 - **2025.04**: &nbsp;🎉🎉 One paper is accepted by **Medical Image Analysis**!
@@ -38,7 +39,20 @@ My research interests lie in computer vision and time-series analysis, with a pa
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://lxfang2022.github.io/)  
+[Towards Reliable Learning: Anchor and Control Methods for Semi-Supervised Medical Image Segmentation](https://www.sciengine.com/SSI/doi/10.1360/SSI-2025-0444)  
+**Lexin Fang**, Xiang Ma, Yunyang Xu, Xuemei Li*, Caiming Zhang.  
+_Science China Information Sciences_, 2026 (in Chinese).
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TMI 2026</div>
+      <img src="../images/TMI 2026.jpg" alt="TMI 2026" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/11328878)  
 **Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
 _IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
 
@@ -109,7 +123,7 @@ _Neural Networks (**NN**)_, 2025.
   
 # 🌐 Contact
 
-- **Email**: &nbsp; fanglexin@mail.sdu.edu.cn
+- **Email**: lxfang9999@gmail.com &nbsp; fanglexin@mail.sdu.edu.cn
 
 <p style="text-align:center;">
   <a href="https://mapmyvisitors.com/web/1bzjx" title="Visit tracker">
