@@ -43,6 +43,9 @@ My research interests lie in computer vision and time-series analysis, with a pa
 **Lexin Fang**, Xiang Ma, Yunyang Xu, Xuemei Li*, Caiming Zhang.  
 _Science China Information Sciences_, 2026 (in Chinese).
 
+  </div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
