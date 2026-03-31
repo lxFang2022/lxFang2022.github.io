@@ -120,6 +120,7 @@ _Neural Networks (**NN**)_, 2025.
 - **2025.09**: &nbsp;  **Weichai Power Scholarship**, Shandong University.
 - 
 # ✨ Academic Service
+- IEEE Transactions on Medical Imaging (TMI), Reviewer.
 - The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer.
 - Applied Soft Computing, Reviewer.
