@@ -73,7 +73,7 @@ _IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
 
 [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Minding_Fuzzy_Regions_A_Data-driven_Alternating_Learning_Paradigm_for_Stable_CVPR_2025_paper.pdf)  
 **Lexin Fang**, Yunyang Xu, Xiang Ma, Xuemei Li*, Caiming Zhang.  
-In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2025.
+In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2025. [[Code]](https://github.com/lxFang2022/DALE)
 
   </div>
 </div>
@@ -89,7 +89,7 @@ In _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogn
 
 [Driven by Textual Knowledge: A Text-View Enhanced Knowledge Transfer Network for Lung Infection Region Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001720) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
 **Lexin Fang**, Xuemei Li*, Yunyang Xu, Fan Zhang, Caiming Zhang.  
-_Medical Image Analysis (**MedIA**)_, 2025.
+_Medical Image Analysis (**MedIA**)_, 2025.  [[Code]](https://github.com/lxFang2022/TVE-Net) [[Dataset]](https://github.com/lxFang2022/Pneu-CT-Dataset)
 
   </div>
 </div>
@@ -105,7 +105,7 @@ _Medical Image Analysis (**MedIA**)_, 2025.
 
 [TD-HCN: A Trend-Driven Hypergraph Convolutional Network for Stock Return Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006094)  
 **Lexin Fang**, Tianlong Zhao, Junlei Yu, Qiang Guo, Xuemei Li*, Caiming Zhang.  
-_Neural Networks (**NN**)_, 2025.
+_Neural Networks (**NN**)_, 2025. [[Code]](https://github.com/lxFang2022/TD-HCN)
 
   </div>
 </div>
