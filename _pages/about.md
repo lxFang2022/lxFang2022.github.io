@@ -57,7 +57,7 @@ _Science China Information Sciences_, 2026 (in Chinese).
 
 [Common Pattern Prior-Driven Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/11328878)  
 **Lexin Fang**, Yunyang Xu, Anxin Zhang, Xin Li, Xuemei Li*, Caiming Zhang.  
-_IEEE Transactions on Medical Imaging (**TMI**)_, 2026.
+_IEEE Transactions on Medical Imaging (**TMI**)_, 2026. [[Code]](https://github.com/lxFang2022/CPP-Net)
 
   </div>
 </div>
