@@ -41,7 +41,7 @@ My research interests lie in computer vision and time-series analysis, with a pa
 
 [Towards Reliable Learning: Anchor and Control Methods for Semi-Supervised Medical Image Segmentation](https://www.sciengine.com/SSI/doi/10.1360/SSI-2025-0444)  
 **Lexin Fang**, Xiang Ma, Yunyang Xu, Xuemei Li*, Caiming Zhang.  
-_Science China Information Sciences_, 2026 (in Chinese).
+_Science China Information Sciences_, 2026 (in Chinese). [[Code]](https://github.com/lxFang2022/AnCo)
 
   </div>
 </div>
