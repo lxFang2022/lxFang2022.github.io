@@ -114,9 +114,6 @@ _Neural Networks (**NN**)_, 2025. [[Code]](https://github.com/lxFang2022/TD-HCN)
 - **2018.11**: &nbsp;  **ACM-ICPC International Collegiate Programming Contest Asia Regional Contest, Silver Medal**. 
 - **2018.12**: &nbsp;  **President's Scholarship**, Shandong University of Finance and Economics.
 - **2019.12**: &nbsp;  **National Scholarship**, Shandong University of Finance and Economics.
-- **2020.12**: &nbsp;  **Provincial Government Scholarship**, Shandong University of Finance and Economics.
-- **2021.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
-- **2025.09**: &nbsp;  **First Class of Academic Scholarship**, Shandong University.
 - **2025.09**: &nbsp;  **Weichai Power Scholarship**, Shandong University.
 - 
 # ✨ Academic Service
