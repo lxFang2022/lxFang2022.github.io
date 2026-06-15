@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will join the [DHlab](https://digitalheartlab.com/) at the Department of Biomedical Engineering, [National University of Singapore (NUS)](https://cde.nus.edu.sg/bme/)  as a Research Fellow, working under the supervision of [Dr. Lei Li](https://digitalheartlab.com/people/lei_li).
+I will join the [DHlab](https://digitalheartlab.com/) at the [Department of Biomedical Engineering, National University of Singapore (NUS)](https://cde.nus.edu.sg/bme/)  as a Research Fellow, working under the supervision of [Dr. Lei Li](https://digitalheartlab.com/people/lei_li).
 I received my Ph.D. from the School of Software, Shandong University, where I was jointly supervised by Prof. [Xuemei Li](https://faculty.sdu.edu.cn/lixuemei/zh_CN/index.htm) and Prof. [Caiming Zhang](https://www.sc.sdu.edu.cn/info/1046/2286.htm), and conducted my doctoral research at the [IC&IV Lab](https://icivlab.com/) led by Prof. Zhang.
 
 My research interests lie in computer vision and time-series analysis, with a particular focus on medical image analyse, training stability of deep models, multi-agent collaboration​ icivlab.comand data trend modeling.
