@@ -119,7 +119,7 @@ _Neural Networks (**NN**)_, 2025. [[Code]](https://github.com/lxFang2022/TD-HCN)
 - 
 # ✨ Academic Service
 - IEEE Transactions on Medical Imaging (TMI), Reviewer.
-- The Annual AAAI Conference on Artificial Intelligence 2026 (AAAI'26), PC Member.
+- AAAI 2026–2027 (AAAI'26–27), Program Committee Member.
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer.
 - Applied Soft Computing, Reviewer.
   
